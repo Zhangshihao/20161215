@@ -1,3 +1,0 @@
-1、text-align：  center;居中， text-shadow:0px/X偏移量 0px/Y偏移量 4px/模糊程度 blue/颜色-蓝色。 （4个值）
-2、background-color: #c81623;/框内颜色  box-shadow：0px/X偏移量 0px/Y偏移量 4px/模糊程度 2px/边框宽度 blue/颜色-蓝色。（5个值）
-注：github 下载  管理代码工具，详情百度~
